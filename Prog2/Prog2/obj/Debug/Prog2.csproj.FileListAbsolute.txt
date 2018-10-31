@@ -1,0 +1,9 @@
+J:\Prog2\Prog2\bin\Debug\Prog2.exe.config
+J:\Prog2\Prog2\bin\Debug\Prog2.exe
+J:\Prog2\Prog2\bin\Debug\Prog2.pdb
+J:\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+J:\Prog2\Prog2\obj\Debug\Prog2.Prog2.resources
+J:\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+J:\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+J:\Prog2\Prog2\obj\Debug\Prog2.exe
+J:\Prog2\Prog2\obj\Debug\Prog2.pdb
